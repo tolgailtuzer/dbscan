@@ -8,13 +8,13 @@ Density-based spatial clustering of applications with noise (DBSCAN) is a data c
 ## Images
 
 <img src="/Images/mainscreen.png">
-<p>
-<img align="left" width="280" src="/Images/parameterscreen.png"> 
 
-<img width="280" height="400" src="/Images/resultscreen.png">
-
-<img align="right" width="280" height="400" src="/Images/log.png">
+<p align="center">
+<img height=320 width=270 src="/Images/parameterscreen.png"> 
+<img height=320 width=272 src="/Images/resultscreen.png">
+<img height=320 width=270 src="/Images/log.png">
 </p>
+
 <p align="center">
 <img src="/Images/visualizationscreen.png">
 </p>
